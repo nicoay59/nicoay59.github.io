@@ -93,6 +93,20 @@ aside{
     padding: 5px 5px;
 }
 
+@media (max-width=1103):{
+	.grid{
+		width: 90%;
+		float: none;
+	}
+	.aside{
+		width: 100%;
+		float: none;
+	}
+
+
+}
+
+
 .cf:before,
 .cf:after {
     content: " "; /* 1 */
