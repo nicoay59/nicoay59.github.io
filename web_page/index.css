@@ -93,7 +93,7 @@ aside{
     padding: 5px 5px;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1103px) {
 	.grid{
 		width: 93%;
 		padding-right: 12px;
