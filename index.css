@@ -103,6 +103,7 @@ footer{
 	.grid{
 		width: 93%;
 		padding-right: 2px;
+		text-align: left;
 		}
 	aside{
 		overflow: hidden;
