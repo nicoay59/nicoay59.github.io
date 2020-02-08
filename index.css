@@ -103,6 +103,8 @@ footer{
 	.grid{
 		width: 93%;
 		padding-right: 2px;
+		padding-left: 2px;
+		margin: 0%;
 		text-align: left;
 		}
 	aside{
